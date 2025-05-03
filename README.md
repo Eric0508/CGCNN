@@ -1,3 +1,6 @@
+# Acklowledgement #
+This project aims to implement CGCNN and predict crystal band gap and Phillips' ionization coefficient. The following instructions are from Xie and Grossman. For a detailed explanation, please refer to their work.
+
 # Crystal Graph Convolutional Neural Networks
 
 This software package implements the Crystal Graph Convolutional Neural Networks (CGCNN) that takes an arbitary crystal structure to predict material properties. 
